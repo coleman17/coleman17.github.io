@@ -23,13 +23,12 @@ body {
   line-height: 80px;
   /*background-attachment: scroll; */
   height: 100%;
-  padding-bottom: 900px;
   overflow: scroll;
   -webkit-overflow-scrolling: touch; 
-  -webkit-background-size: cover;
-     -moz-background-size: cover;
-       -o-background-size: cover;
-          background-size: cover;
+  -webkit-background-size: contain;
+     -moz-background-size: contain;
+       -o-background-size: contain;
+          background-size: contain;
 }
 
 .menu ul {

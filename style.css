@@ -19,7 +19,7 @@ body {
 /* Basic styling */
 
 .jumbotron {
-  background-image: url('conifers-trees-landscape-438600-o.jpg');
+  background-image: url('conifers-trees-landscape-438600-o.jpg') no-repeat center center fixed;
   /*background-attachment: scroll; */
   /* height: 100%; */
   overflow: scroll;

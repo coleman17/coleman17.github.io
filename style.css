@@ -21,7 +21,7 @@ body {
 .jumbotron {
   background-image: url('conifers-trees-landscape-438600-o.jpg');
   /*background-attachment: scroll; */
-  height: 100%;
+  /* height: 100%; */
   overflow: scroll;
   -webkit-overflow-scrolling: touch; 
   -webkit-background-size: cover;

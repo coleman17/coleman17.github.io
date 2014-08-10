@@ -22,7 +22,7 @@ body {
   background-image: url('conifers-trees-landscape-438600-o.jpg');
   background-attachment: scroll; 
   height: 100%;
-  overflow: visible; 
+  overflow: auto; 
   -webkit-background-size: cover;
      -moz-background-size: cover;
        -o-background-size: cover;

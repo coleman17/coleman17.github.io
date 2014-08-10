@@ -10,6 +10,7 @@ body {
 .menu {
   /* background: #202024 url('conifers-trees-landscape-438600-o.jpg') repeat left top; */
   background-color: "white";
+  background-attachment: scroll;
   left: -285px;  /* start off behind the scenes */
   height: 90%;
   position: fixed;

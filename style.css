@@ -11,7 +11,7 @@ body {
   /* background: #202024 url('conifers-trees-landscape-438600-o.jpg') repeat left top; */
   background-color: "white";
   left: -285px;  /* start off behind the scenes */
-  height: 90%;
+  height: 100%;
   position: fixed;
   width: 285px;
 }
@@ -24,10 +24,10 @@ body {
   height: 100%; 
   overflow: auto;
   -webkit-overflow-scrolling: touch; 
-  -webkit-background-size: cover;
-     -moz-background-size: cover;
-       -o-background-size: cover;
-          background-size: cover;
+  -webkit-background-size: auto;
+     -moz-background-size: auto;
+       -o-background-size: auto;
+          background-size: auto;
 }
 
 .menu ul {

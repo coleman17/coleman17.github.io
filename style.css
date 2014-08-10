@@ -4,6 +4,7 @@ body {
   margin: 0;
   overflow: scroll;
   position: relative;
+  padding: 20px;
 }
 
 /* Initial menu */
@@ -19,7 +20,7 @@ body {
 /* Basic styling */
 
 .jumbotron {
-  background-image: url('conifers-trees-landscape-438600-o.jpg') no-repeat center center fixed;
+  background-image: url('conifers-trees-landscape-438600-o.jpg');
   /*background-attachment: scroll; */
   /* height: 100%; */
   overflow: scroll;

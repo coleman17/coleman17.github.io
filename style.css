@@ -4,7 +4,6 @@ body {
   margin: 0;
   overflow: hidden;
   position: relative;
-  background-size: 100%;
 }
 
 /* Initial menu */
@@ -23,6 +22,7 @@ body {
   background-image: url('conifers-trees-landscape-438600-o.jpg');
   background-attachment: scroll; 
   height: 100%;
+  overflow: visible; 
   -webkit-background-size: cover;
      -moz-background-size: cover;
        -o-background-size: cover;
